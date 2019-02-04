@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/SA_1949.iml" filepath="$PROJECT_DIR$/.idea/SA_1949.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/SA_1949.iml" filepath="$PROJECT_DIR$/SA_1949.iml" />
+>>>>>>> BJ_1953. 탈주범 검거
     </modules>
   </component>
 </project>
